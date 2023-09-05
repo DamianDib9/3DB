@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f28;
+    font-family: 'Comic Neue', cursive;
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+}
+
+#purplebar {
+    background-color: blueviolet;
+    height: .6rem;
+}
+
+#nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+#mainLogo {
+width: 35vw;
+margin: auto;
+padding-top: 2rem;
+padding-bottom: 1rem;
+}
+
+#gracias {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#smile {margin-left: 35vw;
+    margin-right: 35vw;
+    margin-bottom: 1rem;
+}
+
+#graciasP {
+color: rgb(196, 195, 193);
+font-size: .9rem;
+text-align: center;
+margin-bottom: 1rem;
+}
+
+#arrows {
+    color: blueviolet;
+    font-size: 1.5rem;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+
+.iconosBotones {
+    width: 60vw;
+    margin: auto;
+    list-style: none;
+display: flex;
+flex-direction: row;
+justify-content: left;
+align-items: center;
+border: 1px solid blueviolet;
+padding: 1rem;
+color: aliceblue;
+}
+
+
+.iconosIMG {
+height: 20px;
+margin-right: 1rem;
+}
+
+
